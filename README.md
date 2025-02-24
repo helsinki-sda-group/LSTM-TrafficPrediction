@@ -1,4 +1,4 @@
-# CouSCOUS_UH
+# LSTM-TrafficPrediction
 
 Example script to train the traffic predictor:
 ```
